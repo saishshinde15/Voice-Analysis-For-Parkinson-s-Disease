@@ -1,7 +1,7 @@
 # Voice-Analysis-For-Parkinson-s-Disease
 ## Dataset
 
-The dataset used for training the models is the Parkinson Speech Dataset with Multiple Types of Sound Recordings from UC Irvine, which can be found [here](https://www.openml.org/d/1488).
+The dataset used for training the models is the Parkinson Speech Dataset with Multiple Types of Sound Recordings from OpenMl, which can be found [here](https://www.openml.org/d/1488).
 
 ## Models
 
